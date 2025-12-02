@@ -25,4 +25,58 @@
   },
   {
     "id": 4,
-    "nam
+    "name": "EcoGlass Premium",
+    "size": "600ml",
+    "material": "Glass",
+    "price": 350,
+    "color": "Green"
+  },
+  {
+    "id": 5,
+    "name": "Sporty Flex",
+    "size": "900ml",
+    "material": "BPA-Free Plastic",
+    "price": 120,
+    "color": "Red"
+  },
+  {
+    "id": 6,
+    "name": "ChillMate",
+    "size": "1.2 Liter",
+    "material": "Plastic",
+    "price": 40,
+    "color": "Purple"
+  },
+  {
+    "id": 7,
+    "name": "SteelGuard Pro",
+    "size": "1 Liter",
+    "material": "Stainless Steel",
+    "price": 550,
+    "color": "Black"
+  },
+  {
+    "id": 8,
+    "name": "Crystal Clear",
+    "size": "700ml",
+    "material": "Glass",
+    "price": 300,
+    "color": "Transparent"
+  },
+  {
+    "id": 9,
+    "name": "ActiveFlow",
+    "size": "800ml",
+    "material": "Plastic",
+    "price": 85,
+    "color": "Orange"
+  },
+  {
+    "id": 10,
+    "name": "ThermoKeep",
+    "size": "500ml",
+    "material": "Thermal Steel",
+    "price": 650,
+    "color": "Matte Grey"
+  }
+]
