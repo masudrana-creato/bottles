@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure",
+    "size": "500ml",
+    "material": "Plastic",
+    "price": 20,
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Spring",
+    "size": "1 Liter",
+    "material": "Plastic",
+    "price": 30,
+    "color": "Transparent"
+  },
+  {
+    "id": 3,
+    "name": "HydroMax Steel",
+    "size": "750ml",
+    "material": "Stainless Steel",
+    "price": 450,
+    "color": "Silver"
+  },
+  {
+    "id": 4,
+    "nam
